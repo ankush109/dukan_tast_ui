@@ -28,7 +28,7 @@ const Sidebar = () => {
                 color: "white",
               }}
             >
-              Nishyan
+              Dukan
             </p>
             <Link
               to=""
